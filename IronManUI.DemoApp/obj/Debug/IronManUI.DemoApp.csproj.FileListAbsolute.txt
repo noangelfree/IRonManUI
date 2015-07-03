@@ -1,0 +1,17 @@
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\bin\Debug\IronManUI.DemoApp.exe.config
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\bin\Debug\IronManUI.DemoApp.exe
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\bin\Debug\IronManUI.DemoApp.pdb
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp.csprojResolveAssemblyReference.cache
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\obj\Debug\MainWindow.g.cs
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\obj\Debug\App.g.cs
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp_MarkupCompile.cache
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp_MarkupCompile.lref
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\obj\Debug\MainWindow.baml
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp.g.resources
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp.Properties.Resources.resources
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp.csproj.GenerateResource.Cache
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp.exe
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp.pdb
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\obj\Debug\App.baml
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\bin\Debug\IRonManUI.Core.dll
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\bin\Debug\IRonManUI.Core.pdb

@@ -1,0 +1,12 @@
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\obj\Debug\Styles\IRMUIWindowStyle.baml
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\obj\Debug\Styles\IRMUIWindowStyle.g.cs
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\obj\Debug\IRonManUI.Core_MarkupCompile.cache
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\obj\Debug\IRonManUI.Core.g.resources
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\bin\Debug\IRonManUI.Core.dll
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\bin\Debug\IRonManUI.Core.pdb
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\obj\Debug\IRonManUI.Core.dll
+c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\obj\Debug\IRonManUI.Core.pdb
+C:\Users\noangelfree\Documents\Visual Studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\obj\Debug\IRonManUI.Core.csprojResolveAssemblyReference.cache
+C:\Users\noangelfree\Documents\Visual Studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\noangelfree\Documents\Visual Studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\obj\Debug\IRonManUI.Core_MarkupCompile.lref
+C:\Users\noangelfree\Documents\Visual Studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\obj\Debug\Themes\DarkBlue.baml
