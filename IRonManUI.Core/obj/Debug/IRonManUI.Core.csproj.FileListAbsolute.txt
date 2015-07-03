@@ -10,3 +10,15 @@ C:\Users\noangelfree\Documents\Visual Studio 2015\Projects\IronManUI.DemoApp\IRo
 C:\Users\noangelfree\Documents\Visual Studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\noangelfree\Documents\Visual Studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\obj\Debug\IRonManUI.Core_MarkupCompile.lref
 C:\Users\noangelfree\Documents\Visual Studio 2015\Projects\IronManUI.DemoApp\IRonManUI.Core\obj\Debug\Themes\DarkBlue.baml
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IRonManUI.Core\bin\Debug\IRonManUI.Core.dll
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IRonManUI.Core\bin\Debug\IRonManUI.Core.pdb
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IRonManUI.Core\obj\Debug\IRonManUI.Core.csprojResolveAssemblyReference.cache
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IRonManUI.Core\obj\Debug\Themes\DarkBlue.baml
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IRonManUI.Core\obj\Debug\Styles\IRMUIWindowStyle.g.cs
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IRonManUI.Core\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IRonManUI.Core\obj\Debug\IRonManUI.Core_MarkupCompile.cache
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IRonManUI.Core\obj\Debug\IRonManUI.Core_MarkupCompile.lref
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IRonManUI.Core\obj\Debug\Styles\IRMUIWindowStyle.baml
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IRonManUI.Core\obj\Debug\IRonManUI.Core.g.resources
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IRonManUI.Core\obj\Debug\IRonManUI.Core.dll
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IRonManUI.Core\obj\Debug\IRonManUI.Core.pdb

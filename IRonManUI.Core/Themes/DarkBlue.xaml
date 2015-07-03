@@ -7,4 +7,7 @@
     <SolidColorBrush x:Key="VS2012WindowBorderBrushInactive" Color="#999999" />
     <SolidColorBrush x:Key="VS2012WindowStatusForeground" Color="#FFFFFF" />
     <SolidColorBrush x:Key="VS2012WindowStatusForegroundInactive" Color="#FFFFFF" />
+    
+    <Color x:Key="ForegroundColor">White</Color>
+    <SolidColorBrush x:Key="ForegroundBrush" Color="{StaticResource ForegroundColor}"/>
 </ResourceDictionary>

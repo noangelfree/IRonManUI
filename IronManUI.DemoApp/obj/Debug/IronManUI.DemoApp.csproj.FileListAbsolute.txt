@@ -15,3 +15,20 @@ c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\Iro
 c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\obj\Debug\App.baml
 c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\bin\Debug\IRonManUI.Core.dll
 c:\users\noangelfree\documents\visual studio 2015\Projects\IronManUI.DemoApp\IronManUI.DemoApp\bin\Debug\IRonManUI.Core.pdb
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\bin\Debug\IronManUI.DemoApp.exe.config
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp.exe
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp.pdb
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\bin\Debug\IronManUI.DemoApp.exe
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\bin\Debug\IronManUI.DemoApp.pdb
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\bin\Debug\IRonManUI.Core.dll
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\bin\Debug\IRonManUI.Core.pdb
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp.csprojResolveAssemblyReference.cache
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\obj\Debug\App.baml
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\obj\Debug\MainWindow.g.cs
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\obj\Debug\App.g.cs
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp_MarkupCompile.cache
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp_MarkupCompile.lref
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\obj\Debug\MainWindow.baml
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp.g.resources
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp.Properties.Resources.resources
+C:\Users\noangelfree\Documents\GitHub\IRonManUI\IronManUI.DemoApp\obj\Debug\IronManUI.DemoApp.csproj.GenerateResource.Cache

@@ -107,7 +107,7 @@
                                             Margin="4,0,0,0"
                                             FontFamily="Segoe UI"
                                             FontSize="12"
-                                            Opacity="0.66"
+                                            Foreground="{DynamicResource ForegroundBrush}"
                                             Text="{Binding Path=Title, Mode=OneWay, RelativeSource={RelativeSource TemplatedParent}}"
                                             />
                                         <StackPanel Grid.Column="2" Orientation="Horizontal">
