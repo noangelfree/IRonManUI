@@ -88,8 +88,8 @@ namespace IRonManUI.Core.Controls.Window
         void MaxButtonClick(object sender, RoutedEventArgs e)
         {
             sender.ForWindowFromTemplate(w => w.WindowState = (w.WindowState == WindowState.Maximized) ? WindowState.Normal : WindowState.Maximized);
-            sender.ForWindowFromTemplate(w => w.MaxWidth = SystemParameters.WorkArea.Width);
-            sender.ForWindowFromTemplate(w => w.MaxHeight = SystemParameters.WorkArea.Height);
+            sender.ForWindowFromTemplate(w => w.MaxWidth = SystemParameters.WorkArea.Width +12);
+            sender.ForWindowFromTemplate(w => w.MaxHeight = SystemParameters.WorkArea.Height + 12);
         }
 
         void TitleBarMouseLeftButtonDown(object sender, MouseButtonEventArgs e)
