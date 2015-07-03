@@ -10,4 +10,7 @@
     
     <Color x:Key="ForegroundColor">White</Color>
     <SolidColorBrush x:Key="ForegroundBrush" Color="{StaticResource ForegroundColor}"/>
+
+    <Color x:Key="BackgroundColor">#0a1119</Color>
+    <SolidColorBrush x:Key="BackgroundBrush" Color="{StaticResource BackgroundColor}"/>
 </ResourceDictionary>
