@@ -47,6 +47,11 @@
   <ItemGroup>
     <Compile Include="Controls\Window\IRMUIWindow.cs" />
     <Compile Include="Controls\Window\IRMUIWindowBase.cs" />
+    <Compile Include="Helpers\Displayable.cs" />
+    <Compile Include="Helpers\Link.cs" />
+    <Compile Include="Helpers\LinkCollection.cs" />
+    <Compile Include="Helpers\LinkGroup.cs" />
+    <Compile Include="Helpers\NotifyPropertyChanged.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
